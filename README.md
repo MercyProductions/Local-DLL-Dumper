@@ -1,9 +1,16 @@
-Open Game Of Choice
-Enter Said Games Executable Name Including ".exe" In Example : BlackOpsColdWar.exe
+**Game Dump Tool for [Game of Choice]**
 
-Option 1.) Dump Game Without Cheat Running
-Option 2.) Dump Game With Cheat Running
-Option 3.) Compare DLLS Dumped From Option 1 Vs Option 2 Remainders Get Outputted
-Option 4.) Specific DLLS To Search For.
+**Instructions:**
 
-This Will Work If The Cheat Is Stored Locally On Your PC Rather Then In Memory. For Memory Capture Please View Other Releases.
+1. **Open Game**: Launch the game you want to dump.
+2. **Executable Name**: Enter the game's executable name including ".exe" (e.g., BlackOpsColdWar.exe).
+
+**Features:**
+
+- 📂 **Dump Options**:
+  - **Option 1:** Dump the game without the cheat running.
+  - **Option 2:** Dump the game with the cheat running.
+  - **Option 3:** Compare DLLs dumped from both options and highlight differences.
+  - **Option 4:** Specify specific DLLs to search for.
+
+**Note**: This tool is designed for cheats stored locally on your PC rather than in memory. For memory capture methods, please refer to alternative releases.
